@@ -3,7 +3,7 @@ dev-tools
 
 ## secret key management 
 - personal projects
-    - doppler // organizes keys by project - has gui 
+    - https://www.doppler.com/ // organizes keys by project - has gui 
         - also Free SAML/SSO 
     - hashicorp vault // organizes keys by key:value style - has gui 
 
